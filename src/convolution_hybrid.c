@@ -1,9 +1,12 @@
 //
 //  convolution.c
 //
+//  Base code created by Josep Lluis Lerida on 11/03/15.
+//  Base code updated by Vitor da Silva on 17/04/2021
 //
-//  Created by Josep Lluis Lerida on 11/03/15.
-//  Updated by Vitor da Silva on 17/04/2021
+// Created by Josep Lluis Lerida on 11/03/15.
+// Updated by Vitor da Silva on 17/04/2021
+// Hybrid OMP and MPI solution implemented by Albert Pérez & Francesc Contreras 11/06/2021
 //
 // This program allows you to apply the convolution to an image file with a * .ppm extension.
 // The program receives the file with the source image, the file with the kernel for the convolution and the path of the output file.
